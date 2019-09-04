@@ -1,0 +1,17 @@
+.app {
+  background-color: aqua;
+}
+
+h1 {
+  text-align: center;
+  padding: 20px;
+  margin: 0;
+}
+
+.cardBox {
+  text-align: center;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
